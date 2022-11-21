@@ -1,0 +1,2 @@
+# 8_php--User-Management-System-With-Admin-Panel-Project-using-PHP---OOP-PDO---MySQL-Ajax-Bootstrap
+User Management System With Admin Panel | PHP - OOP, PDO - MySQL, Ajax.   This application is used to set up posts, which includes deleting, editing and previewing the post. This application has a section for sending a message to the admin. There are different sections for changing the profile name, changing the login password.  
