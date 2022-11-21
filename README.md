@@ -1,2 +1,8 @@
 # 8_php--User-Management-System-With-Admin-Panel-Project-using-PHP---OOP-PDO---MySQL-Ajax-Bootstrap
-User Management System With Admin Panel | PHP - OOP, PDO - MySQL, Ajax.   This application is used to set up posts, which includes deleting, editing and previewing the post. This application has a section for sending a message to the admin. There are different sections for changing the profile name, changing the login password.  
+This app is User Management System With Admin Panel Using PHP - OOP, PDO - MySQL, jQuery, Ajax, Bootstrap 4, Fontawesome Library, DataTable Library, Sweet Alert   Library, PHPMailer, Google Chart Library, Google Font.
+
+ 
+ In this application, there are two sections, namely the section for the user and for the administrator.
+ 
+ There are options for resetting the login password as well as for verifying the user via email. There is also an option to remember the logged in user.
+ And on those forms, the most widely used forms are the login, Registration, and Forgot Password form.
