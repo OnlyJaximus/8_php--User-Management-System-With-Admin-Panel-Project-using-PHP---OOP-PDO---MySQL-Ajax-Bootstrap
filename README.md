@@ -1,4 +1,4 @@
-# 8_php--User-Management-System-With-Admin-Panel-Project-using-PHP---OOP-PDO---MySQL-Ajax-Bootstrap
+# 8_php-User-Management-System-With-Admin-Panel-Project-using-PHP-OOP-PDO-MySQL-Ajax-Bootstrap
 This app is User Management System With Admin Panel Using PHP - OOP, PDO - MySQL, jQuery, Ajax, Bootstrap 4, Fontawesome Library, DataTable Library, Sweet Alert   Library, PHPMailer, Google Chart Library, Google Font.
 
  
